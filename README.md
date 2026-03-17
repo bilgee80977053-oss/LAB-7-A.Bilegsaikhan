@@ -35,3 +35,8 @@ Git, GitHub, repository, clone, commit, push, pull, remote repository, local rep
 · Интернэт холболт
 
 ene hesgiig feature readme der bichle bagsha
+## Миний мэдээлэл
+
+Нэр:
+Анги:
+Мэргэжил:
